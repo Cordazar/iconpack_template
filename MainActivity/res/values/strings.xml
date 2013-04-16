@@ -13,8 +13,10 @@
     <bool name="config_apexskin">true</bool>
 
     <!-- The feature graphic will appear above the theme description -->
-
+	<!-- <string name="theme_feature">feature</string> -->
 
     <!-- Each theme may have up to 5 preview images -->
+    <!-- <string name="theme_preview1">preview1</string> -->
+	<!-- <string name="theme_preview2">preview2</string> -->
 
 </resources>

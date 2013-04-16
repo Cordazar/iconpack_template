@@ -1,16 +1,25 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<manifest 
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
     package="com.yourname.appname"
-    android:versionCode="1" 
-    android:versionName="1" > <!-- android:versionCode="1" +1 with every update! android:versionName="1" Whatever you like-->
+    android:versionCode="1"
+    android:versionName="1" > 
+    <!-- 
+    	android:versionCode="1" +1 with every update! 
+    	android:versionName="1" Whatever you like 
+    -->
 
-   <uses-sdk android:minSdkVersion="7"></uses-sdk>
-
+    <uses-sdk
+        android:minSdkVersion="8"
+        android:targetSdkVersion="17" />
 
     <application
+        android:allowBackup="true"
         android:icon="@drawable/icon"
         android:label="@string/theme_title" >
         <activity
+            tools:ignore="ExportedActivity"
             android:name="com.yourname.appname.MainActivity"
             android:label="@string/theme_title" >
 
@@ -41,7 +50,7 @@
             </intent-filter>
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
-                
+
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
 

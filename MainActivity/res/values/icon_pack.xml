@@ -1,548 +1,525 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-<string-array name="icon_pack" translatable="true">
 
-<item>doubletwist</item>
-<item>adfree</item>
-<item>adobeflash</item>
-<item>adobereader</item>
-<item>airdroid</item>
-<item>androidbrowser</item>
-<item>apexlauncher</item>
-<item>calendar</item>
-<item>camera</item>
-<item>camerazoomfx</item>
-<item>chrome</item>
-<item>contacts</item>
-<item>dbrailnavigator</item>
-<item>dictcc</item>
-<item>dolphinbrowser</item>
-<item>facebook</item>
-<item>facebookmessenger</item>
-<item>flipboard</item>
-<item>googledrive</item>
-<item>googleearth</item>
-<item>googlemail</item>
-<item>googlemaps</item>
-<item>googlemusic</item>
-<item>googleplaystore</item>
-<item>googleplus</item>
-<item>googlesearch</item>
-<item>googlevoicesearch</item>
-<item>heiseonline</item>
-<item>imdb</item>
-<item>moonreader</item>
-<item>oeffi</item>
-<item>pinterest</item>
-<item>pocket</item>
-<item>quickpic</item>
-<item>rommanager</item>
-<item>rootexplorer</item>
-<item>shazam</item>
-<item>soundhound</item>
-<item>sparkasse</item>
-<item>spotify</item>
-<item>springpad</item>
-<item>tapatalk</item>
-<item>tasker</item>
-<item>tasks</item>
-<item>ted</item>
-<item>thefancy</item>
-<item>twicca</item>
-<item>twitter</item>
-<item>vimeo</item>
-<item>whatsapp</item>
-<item>wolframalpha</item>
-<item>youtube</item>
-<item>sms2</item>
-<item>sms1</item>
-<item>calculator</item>
-<item>clock</item>
-<item>gallery</item>
-<item>music</item>
-<item>phone</item>
-<item>settings</item>
-<item>camera</item>
-<item>evernote</item>
-<item>handcent</item>
-<item>opera</item>
-<item>dropbox</item>
-<item>dropbox2</item>
-<item>endomondo</item>
-<item>onair</item>
-<item>golauncher</item>
-<item>angrybirds1</item>
-<item>angrybirds3</item>
-<item>angrybirdsspace</item>
-<item>esfileexplorer</item>
-<item>fruitninja</item>
-<item>photoshopexpress</item>
-<item>rssreader</item>
-<item>xbmc</item>
-<item>doubletwistalarm</item>
-<item>vrsinfo</item>
-<item>superuser</item>
-<item>gtasks</item>
-<item>customroms</item>
-<item>appsales</item>
-<item>tvspielfilm</item>
-<item>tagesschau</item>
-<item>newsandweather</item>
-<item>email</item>
-<item>widgetlocker</item>
-<item>themechooser</item>
-<item>googletalk</item>
-<item>wallbase</item>
-<item>xdafree</item>
-<item>xdapremium</item>
-<item>gosms</item>
-<item>speedtest</item>
-<item>firefox</item>
-<item>mxplayer</item>
-<item>foursquare</item>
-<item>winamp</item>
-<item>amazon</item>
-<item>googlegoggles</item>
-<item>ezpdf</item>
-<item>nflmobile</item>
-<item>picasa</item>
-<item>picasa_white</item>
-<item>friendcaster</item>
-<item>flipster</item>
-<item>layar</item>
-<item>box</item>
-<item>catch2</item>
-<item>linkedin</item>
-<item>tweetdeck</item>
-<item>googlegesturesearch</item>
-<item>fronter</item>
-<item>flashback</item>
-<item>ebay</item>
-<item>blocket</item>
-<item>dfb</item>
-<item>burgerking</item>
-<item>yahoomail</item>
-<item>o2</item>
-<item>androidhilfe</item>
-<item>newsrepublic</item>
-<item>mortplayer</item>
-<item>tripadvisor</item>
-<item>gelbeseiten</item>
-<item>astrofilemanager</item>
-<item>rmv</item>
-<item>sportschau</item>
-<item>swiftkey</item>
-<item>amazonappstore</item>
-<item>googlenavigation</item>
-<item>solidexplorer2</item>
-<item>solidexplorer1</item>
-<item>n7p2</item>
-<item>n7p</item>
-<item>uniqlo</item>
-<item>googlebooks</item>
-<item>jamieoliver</item>
-<item>cm</item>
-<item>cm2</item>
-<item>fabrik</item>
-<item>anydo</item>
-<item>flixster</item>
-<item>netflix</item>
-<item>newsrob</item>
-<item>plex</item>
-<item>plex2</item>
-<item>reddit</item>
-<item>reddit2</item>
-<item>tweetcaster</item>
-<item>waze</item>
-<item>yelp</item>
-<item>yelp2</item>
-<item>kaufda</item>
-<item>leo</item>
-<item>instagram</item>
-<item>cerberus</item>
-<item>chrometophone</item>
-<item>downloads</item>
-<item>stopwatch</item>
-<item>rescansd</item>
-<item>novalauncher</item>
-<item>meindeal</item>
-<item>googletranslate</item>
-<item>terminalemulator</item>
-<item>yatse</item>
-<item>tuneinradio</item>
-<item>tuneinradiopro</item>
-<item>soccer</item>
-<item>lampe</item>
-<item>googledocs</item>
-<item>badpiggies</item>
-<item>buka</item>
-<item>dragonfly</item>
-<item>edge</item>
-<item>edgeex</item>
-<item>kindle</item>
-<item>pandora</item>
-<item>pandora2</item>
-<item>googleskymap</item>
-<item>lookout</item>
-<item>googlereader</item>
-<item>pulse</item>
-<item>pulse2</item>
-<item>picsaypro</item>
-<item>realplayer</item>
-<item>xrel</item>
-<item>programmmanager</item>
-<item>telekommediacenter</item>
-<item>nsreisplannerxtra</item>
-<item>romtoolbox</item>
-<item>buienradar</item>
-<item>app2sd</item>
-<item>app2sd2</item>
-<item>fourshared</item>
-<item>titaniumbackup</item>
-<item>titaniumbackup2</item>
-<item>easyuninstaller</item>
-<item>homeswitcher</item>
-<item>teamviewer</item>
-<item>camscanner</item>
-<item>appzapp</item>
-<item>cuttherope</item>
-<item>doodlejump</item>
-<item>paypal</item>
-<item>mymovies</item>
-<item>alchemy</item>
-<item>scores365</item>
-<item>cyanogenmodexplorer</item>
-<item>apollo</item>
-<item>androidlost</item>
-<item>airsync</item>
-<item>eyeinsky</item>
-<item>minimalistic</item>
-<item>googlemovies</item>
-<item>simplecalendarwidget</item>
-<item>slices</item>
-<item>soundrecorder</item>
-<item>sevendigital</item>
-<item>igo</item>
-<item>powertoggles</item>
-<item>zarchiver</item>
-<item>skydrive</item>
-<item>simpletext</item>
-<item>flashlight</item>
-<item>htc_fmradio</item>
-<item>htc_locations</item>############################################################################# Icons fehlen!
-<item>htc_morelocal2</item>############################################################################# Icons fehlen!
-<item>htc_people</item>############################################################################# Icons fehlen!
-<item>htc_personalize</item>############################################################################# Icons fehlen!
-<item>htc_polarisoffice</item>
-<item>htc_rescue</item>############################################################################# Icons fehlen!
-<item>htc_setup</item>############################################################################# Icons fehlen!
-<item>htc_showme</item>############################################################################# Icons fehlen!
-<item>htc_teeter</item>
-<item>htc_transfer</item>############################################################################# Icons fehlen!
-<item>winbankmobile</item>
-<item>htc_wifihotspot</item>
-<item>htc_mail</item>
-<item>feedly</item>
-<item>wifianalyzer</item>
-<item>realcalc</item>
-<item>osmand</item>
-<item>quickoffice</item>
-<item>wikipedia</item>
-<item>germany</item>
-<item>usa</item>
-<item>greatbritain</item>
-<item>japan</item>
-<item>kanada</item>
-<item>china</item>
-<item>greece</item>
-<item>france</item>
-<item>netherland</item>
-<item>turkey</item>
-<item>litauen</item>
-<item>schweden</item>
-<item>ukraine</item>
-<item>indonesia</item>
-<item>kakaotalk</item>
-<item>haxsync</item>
-<item>kvbmonitor</item>
-<item>puregridcalendar</item>
-<item>smartkeyboardpro</item>
-<item>sprachwahl</item>
-<item>quickshortcutmaker</item>
-<item>gochat</item>
-<item>camera360</item>
-<item>poweramp</item>
-<item>businesscalendar</item>
-<item>hdwidgets</item>
-<item>entertainremotecontrol</item>
-<item>connectbot</item>
-<item>spirits</item>
-<item>bussgeldrechner</item>
-<item>starmoney</item>
-<item>nexusmediaimporter</item>
-<item>navigon</item>
-<item>blitzer</item>
-<item>clevertanken</item>
-<item>lightflow</item>
-<item>mobileodin</item>
-<item>msecure</item>
-<item>autoscout</item>
-<item>kicker</item>
-<item>spiegelonline</item>
-<item>tango</item>
-<item>adblocker</item>
-<item>antennapod</item>
-<item>wunderlist</item>
-<item>mindomo</item>
-<item>primeguide</item>
-<item>maxthon</item>
-<item>aik</item>
-<item>falconpro</item>
-<item>noom</item>
-<item>pakete</item>
-<item>seb</item>
-<item>smemo</item>
-<item>tapatalkhd</item>
-<item>googlecurrents</item>
-<item>androidprowidgets</item>
-<item>smoothsync</item>
-<item>apotheke</item>
-<item>viber</item>
-<item>zedge</item>
-<item>mobile</item>
-<item>mcdonalds</item>
-<item>chefkoch</item>
-<item>eyeem</item>
-<item>zattoo</item>
-<item>bild</item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
-<item></item>
+    <string-array name="icon_pack" translatable="true">
+        <item>doubletwist</item>
+        <item>adfree</item>
+        <item>adobeflash</item>
+        <item>adobereader</item>
+        <item>airdroid</item>
+        <item>androidbrowser</item>
+        <item>apexlauncher</item>
+        <item>calendar</item>
+        <item>camera</item>
+        <item>camerazoomfx</item>
+        <item>chrome</item>
+        <item>contacts</item>
+        <item>dbrailnavigator</item>
+        <item>dictcc</item>
+        <item>dolphinbrowser</item>
+        <item>facebook</item>
+        <item>facebookmessenger</item>
+        <item>flipboard</item>
+        <item>googledrive</item>
+        <item>googleearth</item>
+        <item>googlemail</item>
+        <item>googlemaps</item>
+        <item>googlemusic</item>
+        <item>googleplaystore</item>
+        <item>googleplus</item>
+        <item>googlesearch</item>
+        <item>googlevoicesearch</item>
+        <item>heiseonline</item>
+        <item>imdb</item>
+        <item>moonreader</item>
+        <item>oeffi</item>
+        <item>pinterest</item>
+        <item>pocket</item>
+        <item>quickpic</item>
+        <item>rommanager</item>
+        <item>rootexplorer</item>
+        <item>shazam</item>
+        <item>soundhound</item>
+        <item>sparkasse</item>
+        <item>spotify</item>
+        <item>springpad</item>
+        <item>tapatalk</item>
+        <item>tasker</item>
+        <item>tasks</item>
+        <item>ted</item>
+        <item>thefancy</item>
+        <item>twicca</item>
+        <item>twitter</item>
+        <item>vimeo</item>
+        <item>whatsapp</item>
+        <item>wolframalpha</item>
+        <item>youtube</item>
+        <item>sms2</item>
+        <item>sms1</item>
+        <item>calculator</item>
+        <item>clock</item>
+        <item>gallery</item>
+        <item>music</item>
+        <item>phone</item>
+        <item>settings</item>
+        <item>camera</item>
+        <item>evernote</item>
+        <item>handcent</item>
+        <item>opera</item>
+        <item>dropbox</item>
+        <item>dropbox2</item>
+        <item>endomondo</item>
+        <item>onair</item>
+        <item>golauncher</item>
+        <item>angrybirds1</item>
+        <item>angrybirds3</item>
+        <item>angrybirdsspace</item>
+        <item>esfileexplorer</item>
+        <item>fruitninja</item>
+        <item>photoshopexpress</item>
+        <item>rssreader</item>
+        <item>xbmc</item>
+        <item>doubletwistalarm</item>
+        <item>vrsinfo</item>
+        <item>superuser</item>
+        <item>gtasks</item>
+        <item>customroms</item>
+        <item>appsales</item>
+        <item>tvspielfilm</item>
+        <item>tagesschau</item>
+        <item>newsandweather</item>
+        <item>email</item>
+        <item>widgetlocker</item>
+        <item>themechooser</item>
+        <item>googletalk</item>
+        <item>wallbase</item>
+        <item>xdafree</item>
+        <item>xdapremium</item>
+        <item>gosms</item>
+        <item>speedtest</item>
+        <item>firefox</item>
+        <item>mxplayer</item>
+        <item>foursquare</item>
+        <item>winamp</item>
+        <item>amazon</item>
+        <item>googlegoggles</item>
+        <item>ezpdf</item>
+        <item>nflmobile</item>
+        <item>picasa</item>
+        <item>picasa_white</item>
+        <item>friendcaster</item>
+        <item>flipster</item>
+        <item>layar</item>
+        <item>box</item>
+        <item>catch2</item>
+        <item>linkedin</item>
+        <item>tweetdeck</item>
+        <item>googlegesturesearch</item>
+        <item>fronter</item>
+        <item>flashback</item>
+        <item>ebay</item>
+        <item>blocket</item>
+        <item>dfb</item>
+        <item>burgerking</item>
+        <item>yahoomail</item>
+        <item>o2</item>
+        <item>androidhilfe</item>
+        <item>newsrepublic</item>
+        <item>mortplayer</item>
+        <item>tripadvisor</item>
+        <item>gelbeseiten</item>
+        <item>astrofilemanager</item>
+        <item>rmv</item>
+        <item>sportschau</item>
+        <item>swiftkey</item>
+        <item>amazonappstore</item>
+        <item>googlenavigation</item>
+        <item>solidexplorer2</item>
+        <item>solidexplorer1</item>
+        <item>n7p2</item>
+        <item>n7p</item>
+        <item>uniqlo</item>
+        <item>googlebooks</item>
+        <item>jamieoliver</item>
+        <item>cm</item>
+        <item>cm2</item>
+        <item>fabrik</item>
+        <item>anydo</item>
+        <item>flixster</item>
+        <item>netflix</item>
+        <item>newsrob</item>
+        <item>plex</item>
+        <item>plex2</item>
+        <item>reddit</item>
+        <item>reddit2</item>
+        <item>tweetcaster</item>
+        <item>waze</item>
+        <item>yelp</item>
+        <item>yelp2</item>
+        <item>kaufda</item>
+        <item>leo</item>
+        <item>instagram</item>
+        <item>cerberus</item>
+        <item>chrometophone</item>
+        <item>downloads</item>
+        <item>stopwatch</item>
+        <item>rescansd</item>
+        <item>novalauncher</item>
+        <item>meindeal</item>
+        <item>googletranslate</item>
+        <item>terminalemulator</item>
+        <item>yatse</item>
+        <item>tuneinradio</item>
+        <item>tuneinradiopro</item>
+        <item>soccer</item>
+        <item>lampe</item>
+        <item>googledocs</item>
+        <item>badpiggies</item>
+        <item>buka</item>
+        <item>dragonfly</item>
+        <item>edge</item>
+        <item>edgeex</item>
+        <item>kindle</item>
+        <item>pandora</item>
+        <item>pandora2</item>
+        <item>googleskymap</item>
+        <item>lookout</item>
+        <item>googlereader</item>
+        <item>pulse</item>
+        <item>pulse2</item>
+        <item>picsaypro</item>
+        <item>realplayer</item>
+        <item>xrel</item>
+        <item>programmmanager</item>
+        <item>telekommediacenter</item>
+        <item>nsreisplannerxtra</item>
+        <item>romtoolbox</item>
+        <item>buienradar</item>
+        <item>app2sd</item>
+        <item>app2sd2</item>
+        <item>fourshared</item>
+        <item>titaniumbackup</item>
+        <item>titaniumbackup2</item>
+        <item>easyuninstaller</item>
+        <item>homeswitcher</item>
+        <item>teamviewer</item>
+        <item>camscanner</item>
+        <item>appzapp</item>
+        <item>cuttherope</item>
+        <item>doodlejump</item>
+        <item>paypal</item>
+        <item>mymovies</item>
+        <item>alchemy</item>
+        <item>scores365</item>
+        <item>cyanogenmodexplorer</item>
+        <item>apollo</item>
+        <item>androidlost</item>
+        <item>airsync</item>
+        <item>eyeinsky</item>
+        <item>minimalistic</item>
+        <item>googlemovies</item>
+        <item>simplecalendarwidget</item>
+        <item>slices</item>
+        <item>soundrecorder</item>
+        <item>sevendigital</item>
+        <item>igo</item>
+        <item>powertoggles</item>
+        <item>zarchiver</item>
+        <item>skydrive</item>
+        <item>simpletext</item>
+        <item>flashlight</item>
+        <item>htc_fmradio</item>
+        <item>htc_locations</item>
+        <item>htc_morelocal2</item>
+        <item>htc_people</item>
+        <item>htc_personalize</item>
+        <item>htc_polarisoffice</item>
+        <item>htc_rescue</item>
+        <item>htc_setup</item>
+        <item>htc_showme</item>
+        <item>htc_teeter</item>
+        <item>htc_transfer</item>
+        <item>winbankmobile</item>
+        <item>htc_wifihotspot</item>
+        <item>htc_mail</item>
+        <item>feedly</item>
+        <item>wifianalyzer</item>
+        <item>realcalc</item>
+        <item>osmand</item>
+        <item>quickoffice</item>
+        <item>wikipedia</item>
+        <item>germany</item>
+        <item>usa</item>
+        <item>greatbritain</item>
+        <item>japan</item>
+        <item>kanada</item>
+        <item>china</item>
+        <item>greece</item>
+        <item>france</item>
+        <item>netherland</item>
+        <item>turkey</item>
+        <item>litauen</item>
+        <item>schweden</item>
+        <item>ukraine</item>
+        <item>indonesia</item>
+        <item>kakaotalk</item>
+        <item>haxsync</item>
+        <item>kvbmonitor</item>
+        <item>puregridcalendar</item>
+        <item>smartkeyboardpro</item>
+        <item>sprachwahl</item>
+        <item>quickshortcutmaker</item>
+        <item>gochat</item>
+        <item>camera360</item>
+        <item>poweramp</item>
+        <item>businesscalendar</item>
+        <item>hdwidgets</item>
+        <item>entertainremotecontrol</item>
+        <item>connectbot</item>
+        <item>spirits</item>
+        <item>bussgeldrechner</item>
+        <item>starmoney</item>
+        <item>nexusmediaimporter</item>
+        <item>navigon</item>
+        <item>blitzer</item>
+        <item>clevertanken</item>
+        <item>lightflow</item>
+        <item>mobileodin</item>
+        <item>msecure</item>
+        <item>autoscout</item>
+        <item>kicker</item>
+        <item>spiegelonline</item>
+        <item>tango</item>
+        <item>adblocker</item>
+        <item>antennapod</item>
+        <item>wunderlist</item>
+        <item>mindomo</item>
+        <item>primeguide</item>
+        <item>maxthon</item>
+        <item>aik</item>
+        <item>falconpro</item>
+        <item>noom</item>
+        <item>pakete</item>
+        <item>seb</item>
+        <item>smemo</item>
+        <item>tapatalkhd</item>
+        <item>googlecurrents</item>
+        <item>androidprowidgets</item>
+        <item>smoothsync</item>
+        <item>apotheke</item>
+        <item>viber</item>
+        <item>zedge</item>
+        <item>mobile</item>
+        <item>mcdonalds</item>
+        <item>chefkoch</item>
+        <item>eyeem</item>
+        <item>zattoo</item>
+        <item>bild</item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
 
+        <!--
+			Icons with different backgrounds
+			
+			<item>_dark</item>
+			<item>_violet</item>
+			<item>_blue</item>
+			<item>_teal</item>
+			<item>_orange</item>
+			<item>_yellow</item>
+			<item>_green</item>
+			<item>_white</item>
+        -->
 
-<!-- Icons with different backgrounds
+        <item>busybox_dark</item>
+        <item>busybox_violet</item>
+        <item>busybox_blue</item>
+        <item>busybox_teal</item>
+        <item>busybox_orange</item>
+        <item>busybox_yellow</item>
+        <item>busybox_green</item>
+        <item>rss_dark</item>
+        <item>rss_violet</item>
+        <item>rss_blue</item>
+        <item>rss_teal</item>
+        <item>rss_orange</item>
+        <item>rss_yellow</item>
+        <item>rss_green</item>
+        <item>contacts_dark</item>
+        <item>contacts_violet</item>
+        <item>contacts_blue</item>
+        <item>contacts_teal</item>
+        <item>contacts_orange</item>
+        <item>contacts_yellow</item>
+        <item>contacts_green</item>
+        <item>phone_dark</item>
+        <item>phone_violet</item>
+        <item>phone_blue</item>
+        <item>phone_teal</item>
+        <item>phone_orange</item>
+        <item>phone_yellow</item>
+        <item>phone_green</item>
+        <item>android_dark</item>
+        <item>android_violet</item>
+        <item>android_blue</item>
+        <item>android_teal</item>
+        <item>android_orange</item>
+        <item>android_yellow</item>
+        <item>android_green</item>
+        <item>android_white</item>
+        <item>music_dark</item>
+        <item>music_violet</item>
+        <item>music_blue</item>
+        <item>music_teal</item>
+        <item>music_orange</item>
+        <item>music_yellow</item>
+        <item>music_green</item>
+        <item>wlan_dark</item>
+        <item>wlan_violet</item>
+        <item>wlan_blue</item>
+        <item>wlan_teal</item>
+        <item>wlan_orange</item>
+        <item>wlan_yellow</item>
+        <item>wlan_green</item>
+        <item>wifi_dark</item>
+        <item>wifi_violet</item>
+        <item>wifi_blue</item>
+        <item>wifi_teal</item>
+        <item>wifi_orange</item>
+        <item>wifi_yellow</item>
+        <item>wifi_green</item>
+        <item>quicksettings_dark</item>
+        <item>quicksettings_violet</item>
+        <item>quicksettings_blue</item>
+        <item>quicksettings_teal</item>
+        <item>quicksettings_orange</item>
+        <item>quicksettings_yellow</item>
+        <item>quicksettings_green</item>
+        <item>weather_dark</item>
+        <item>weather_violet</item>
+        <item>weather_blue</item>
+        <item>weather_teal</item>
+        <item>weather_orange</item>
+        <item>weather_yellow</item>
+        <item>weather_green</item>
+        <item>usb_dark</item>
+        <item>usb_white</item>
+        <item>usb_violet</item>
+        <item>usb_blue</item>
+        <item>usb_teal</item>
+        <item>usb_orange</item>
+        <item>usb_yellow</item>
+        <item>usb_green</item>
+        <item>bbqlog_dark</item>
+        <item>bbqlog_violet</item>
+        <item>bbqlog_blue</item>
+        <item>bbqlog_teal</item>
+        <item>bbqlog_orange</item>
+        <item>bbqlog_yellow</item>
+        <item>bbqlog_green</item>
+        <item>barcodescanner_dark</item>
+        <item>barcodescanner_violet</item>
+        <item>barcodescanner_blue</item>
+        <item>barcodescanner_teal</item>
+        <item>barcodescanner_orange</item>
+        <item>barcodescanner_yellow</item>
+        <item>barcodescanner_green</item>
+        <item>barcodescanner_white</item>
+        <item>sms_dark</item>
+        <item>sms_violet</item>
+        <item>sms_blue</item>
+        <item>sms_teal</item>
+        <item>sms_orange</item>
+        <item>sms_yellow</item>
+        <item>sms_green</item>
+        <item>sms_white</item>
+        <item>sms2_dark</item>
+        <item>sms2_violet</item>
+        <item>sms2_blue</item>
+        <item>sms2_teal</item>
+        <item>sms2_orange</item>
+        <item>sms2_yellow</item>
+        <item>sms2_green</item>
+        <item>sms2_white</item>
+        <item>calendar_dark</item>
+        <item>calendar_violet</item>
+        <item>calendar_blue</item>
+        <item>calendar_teal</item>
+        <item>calendar_orange</item>
+        <item>calendar_yellow</item>
+        <item>calendar_green</item>
+        <item>calendar_white</item>
+        <item>calculator_dark</item>
+        <item>calculator_violet</item>
+        <item>calculator_blue</item>
+        <item>calculator_teal</item>
+        <item>calculator_orange</item>
+        <item>calculator_yellow</item>
+        <item>calculator_green</item>
+        <item>calculator_white</item>
+        <item>camera_dark</item>
+        <item>camera_violet</item>
+        <item>camera_blue</item>
+        <item>camera_teal</item>
+        <item>camera_orange</item>
+        <item>camera_yellow</item>
+        <item>camera_green</item>
+        <item>camera_white</item>
+        <item>doubletwistalarm_dark</item>
+        <item>doubletwistalarm_violet</item>
+        <item>doubletwistalarm_blue</item>
+        <item>doubletwistalarm_teal</item>
+        <item>doubletwistalarm_orange</item>
+        <item>doubletwistalarm_yellow</item>
+        <item>doubletwistalarm_green</item>
+        <item>compass_dark</item>
+        <item>compass_violet</item>
+        <item>compass_blue</item>
+        <item>compass_teal</item>
+        <item>compass_orange</item>
+        <item>compass_yellow</item>
+        <item>compass_green</item>
+        <item>compass_white</item>
+        <item>taskmanager_dark</item>
+        <item>taskmanager_violet</item>
+        <item>taskmanager_blue</item>
+        <item>taskmanager_teal</item>
+        <item>taskmanager_orange</item>
+        <item>taskmanager_yellow</item>
+        <item>taskmanager_green</item>
+        <item>taskmanager_white</item>
+        <item>cpuspy_dark</item>
+        <item>cpuspy_violet</item>
+        <item>cpuspy_blue</item>
+        <item>cpuspy_teal</item>
+        <item>cpuspy_orange</item>
+        <item>cpuspy_yellow</item>
+        <item>cpuspy_green</item>
+        <item>cpuspy_white</item>
+        <item>_dark</item>
+        <item>_violet</item>
+        <item>_blue</item>
+        <item>_teal</item>
+        <item>_orange</item>
+        <item>_yellow</item>
+        <item>_green</item>
+        <item>_white</item>
+    </string-array>
 
-<item>_dark</item>
-<item>_violett</item>
-<item>_blue</item>
-<item>_teal</item>
-<item>_orange</item>
-<item>_yellow</item>
-<item>_green</item>
-<item>_white</item>
-
- -->
-
-<item>busybox_dark</item>
-<item>busybox_violett</item>
-<item>busybox_blue</item>
-<item>busybox_teal</item>
-<item>busybox_orange</item>
-<item>busybox_yellow</item>
-<item>busybox_green</item>
-
-<item>rss_dark</item>
-<item>rss_violett</item>
-<item>rss_blue</item>
-<item>rss_teal</item>
-<item>rss_orange</item>
-<item>rss_yellow</item>
-<item>rss_green</item>
-
-<item>contacts_dark</item>
-<item>contacts_violett</item>
-<item>contacts_blue</item>
-<item>contacts_teal</item>
-<item>contacts_orange</item>
-<item>contacts_yellow</item>
-<item>contacts_green</item>
-
-<item>phone_dark</item>
-<item>phone_violett</item>
-<item>phone_blue</item>
-<item>phone_teal</item>
-<item>phone_orange</item>
-<item>phone_yellow</item>
-<item>phone_green</item>
-
-<item>android_dark</item>
-<item>android_violett</item>
-<item>android_blue</item>
-<item>android_teal</item>
-<item>android_orange</item>
-<item>android_yellow</item>
-<item>android_green</item>
-<item>android_white</item>
-
-<item>music_dark</item>
-<item>music_violett</item>
-<item>music_blue</item>
-<item>music_teal</item>
-<item>music_orange</item>
-<item>music_yellow</item>
-<item>music_green</item>
-
-<item>wlan_dark</item>
-<item>wlan_violett</item>
-<item>wlan_blue</item>
-<item>wlan_teal</item>
-<item>wlan_orange</item>
-<item>wlan_yellow</item>
-<item>wlan_green</item>
-
-<item>wifi_dark</item>
-<item>wifi_violett</item>
-<item>wifi_blue</item>
-<item>wifi_teal</item>
-<item>wifi_orange</item>
-<item>wifi_yellow</item>
-<item>wifi_green</item>
-
-<item>quicksettings_dark</item>
-<item>quicksettings_violett</item>
-<item>quicksettings_blue</item>
-<item>quicksettings_teal</item>
-<item>quicksettings_orange</item>
-<item>quicksettings_yellow</item>
-<item>quicksettings_green</item>
-
-<item>weather_dark</item>
-<item>weather_violett</item>
-<item>weather_blue</item>
-<item>weather_teal</item>
-<item>weather_orange</item>
-<item>weather_yellow</item>
-<item>weather_green</item>
-
-<item>usb_dark</item>
-<item>usb_white</item>
-<item>usb_violett</item>
-<item>usb_blue</item>
-<item>usb_teal</item>
-<item>usb_orange</item>
-<item>usb_yellow</item>
-<item>usb_green</item>
-
-<item>bbqlog_dark</item>
-<item>bbqlog_violett</item>
-<item>bbqlog_blue</item>
-<item>bbqlog_teal</item>
-<item>bbqlog_orange</item>
-<item>bbqlog_yellow</item>
-<item>bbqlog_green</item>
-
-<item>barcodescanner_dark</item>
-<item>barcodescanner_violett</item>
-<item>barcodescanner_blue</item>
-<item>barcodescanner_teal</item>
-<item>barcodescanner_orange</item>
-<item>barcodescanner_yellow</item>
-<item>barcodescanner_green</item>
-<item>barcodescanner_white</item>
-
-<item>sms_dark</item>
-<item>sms_violett</item>
-<item>sms_blue</item>
-<item>sms_teal</item>
-<item>sms_orange</item>
-<item>sms_yellow</item>
-<item>sms_green</item>
-<item>sms_white</item>
-
-<item>sms2_dark</item>
-<item>sms2_violett</item>
-<item>sms2_blue</item>
-<item>sms2_teal</item>
-<item>sms2_orange</item>
-<item>sms2_yellow</item>
-<item>sms2_green</item>
-<item>sms2_white</item>
-
-<item>calendar_dark</item>
-<item>calendar_violett</item>
-<item>calendar_blue</item>
-<item>calendar_teal</item>
-<item>calendar_orange</item>
-<item>calendar_yellow</item>
-<item>calendar_green</item>
-<item>calendar_white</item>
-
-<item>calculator_dark</item>
-<item>calculator_violett</item>
-<item>calculator_blue</item>
-<item>calculator_teal</item>
-<item>calculator_orange</item>
-<item>calculator_yellow</item>
-<item>calculator_green</item>
-<item>calculator_white</item>
-
-<item>camera_dark</item>
-<item>camera_violett</item>
-<item>camera_blue</item>
-<item>camera_teal</item>
-<item>camera_orange</item>
-<item>camera_yellow</item>
-<item>camera_green</item>
-<item>camera_white</item>
-
-<item>doubletwistalarm_dark</item>
-<item>doubletwistalarm_violett</item>
-<item>doubletwistalarm_blue</item>
-<item>doubletwistalarm_teal</item>
-<item>doubletwistalarm_orange</item>
-<item>doubletwistalarm_yellow</item>
-<item>doubletwistalarm_green</item>
-
-<item>compass_dark</item>
-<item>compass_violett</item>
-<item>compass_blue</item>
-<item>compass_teal</item>
-<item>compass_orange</item>
-<item>compass_yellow</item>
-<item>compass_green</item>
-<item>compass_white</item>
-
-<item>taskmanager_dark</item>
-<item>taskmanager_violett</item>
-<item>taskmanager_blue</item>
-<item>taskmanager_teal</item>
-<item>taskmanager_orange</item>
-<item>taskmanager_yellow</item>
-<item>taskmanager_green</item>
-<item>taskmanager_white</item>
-
-<item>cpuspy_dark</item>
-<item>cpuspy_violett</item>
-<item>cpuspy_blue</item>
-<item>cpuspy_teal</item>
-<item>cpuspy_orange</item>
-<item>cpuspy_yellow</item>
-<item>cpuspy_green</item>
-<item>cpuspy_white</item>
-
-<item>_dark</item>
-<item>_violett</item>
-<item>_blue</item>
-<item>_teal</item>
-<item>_orange</item>
-<item>_yellow</item>
-<item>_green</item>
-<item>_white</item>
-
-	</string-array> 
 </resources>

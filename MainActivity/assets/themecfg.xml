@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <theme>
-<version>1</version>
-<themeName>Color Icon</themeName>
-<themeInfo>Author: GMAEDZL \n\ Homepage: http://forum.xda-developers.com/showthread.php?p=32999506</themeInfo>
-<preview img1="themepreview" />
+
+    <version>1</version>
+
+    <themeName>Color Icon</themeName>
+
+    <themeInfo>Author: YOUR NAME \n\ Homepage: YOUR HOMEPAGE</themeInfo>
+
+    <preview img1="preview1" />
+
 </theme>

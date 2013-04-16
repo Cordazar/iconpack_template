@@ -1,82 +1,192 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<Theme version="1">
-	<Wallpaper bg_color="#00000000" image="greybg"/>
-	<Foldericon bottom="appfunc_folderback" top_open="appfunc_folder_open" top_closed="appfunc_folder_close_up">
-		<!-- <Bottom></Bottom>
+<Theme version="1" >
+
+    <Wallpaper
+        bg_color="#00000000"
+        image="greybg" />
+
+    <Foldericon
+        bottom="appfunc_folderback"
+        top_closed="appfunc_folder_close_up"
+        top_open="appfunc_folder_open" >
+
+        <!--
+        <Bottom></Bottom>
 		<Top_open></Top_open>
-		<Top_closed></Top_closed>
-		-->
-	</Foldericon>
-	<Folder bg_frame_image="folderopenback" bg_frame_way_of_drawing="1" editbox="appfunc_rename" up_button="folderclose" up_button_selected="folder_close_light" line_enabled="1" folder_open_bg_color="#66000000" bg_frame_image_bottom_heigth="34" edittext_color="#FF333300">
-		<!-- <Bg_frame way_of_drawing=""></Bg_frame>
+		<Top_closed></Top_closed>
+        -->
+    </Foldericon>
+
+    <Folder
+        bg_frame_image="folderopenback"
+        bg_frame_image_bottom_heigth="34"
+        bg_frame_way_of_drawing="1"
+        editbox="appfunc_rename"
+        edittext_color="#FF333300"
+        folder_open_bg_color="#66000000"
+        line_enabled="1"
+        up_button="folderclose"
+        up_button_selected="folder_close_light" >
+
+        <!--
+        <Bg_frame way_of_drawing=""></Bg_frame>
 		<Editbox way_of_drawing=""></Editbox>
-		<Up></Up>
-		-->
-	</Folder>
-	<AllTabs bg_v_image="tabbackground" bg_h_image="none" bg_way_of_drawing="1">
-		<!--<Bg_v way_of_drawing=""></Bg_v>
-		<Bg_h way_of_drawing=""></Bg_h>
-		-->
-	</AllTabs>
-	<Tab bg_v_image="tab_v" bg_h_image="tab_h" bg_way_of_drawing="2" selected_v_image="tablight_v" selected_h_image="tablight_h" selected_way_of_drawing="2" focused_v_image="tabfocused_v" focused_h_image="tabfocused_h" focused_way_of_drawing="2" cutLine_enabled="0" orientation_enabled="1">
-		<!-- <Bg_v way_of_drawing=""></Bg_v>
+		<Up></Up>
+        -->
+    </Folder>
+
+    <AllTabs
+        bg_h_image="none"
+        bg_v_image="tabbackground"
+        bg_way_of_drawing="1" >
+
+        <!--
+        <Bg_v way_of_drawing=""></Bg_v>
+		<Bg_h way_of_drawing=""></Bg_h>
+        -->
+    </AllTabs>
+
+    <Tab
+        bg_h_image="tab_h"
+        bg_v_image="tab_v"
+        bg_way_of_drawing="2"
+        cutLine_enabled="0"
+        focused_h_image="tabfocused_h"
+        focused_v_image="tabfocused_v"
+        focused_way_of_drawing="2"
+        orientation_enabled="1"
+        selected_h_image="tablight_h"
+        selected_v_image="tablight_v"
+        selected_way_of_drawing="2" >
+
+        <!--
+        <Bg_v way_of_drawing=""></Bg_v>
 		<Bg_h way_of_drawing=""></Bg_h>
 		<Selected_v way_of_drawing="1"></Selected_v>
 		<Selected_h way_of_drawing="1"></Selected_h>
 		<Focused_v way_of_drawing="1"></Focused_v>
 		<Focused_h way_of_drawing="1"></Focused_h>
-		<CutLine_enabled></CutLine_enabled>
-		-->
-	</Tab>
-	<TabIcon name="AllApps" unselected="allapp" selected="allapp_selected">
-		<!-- <Unselected></Unselected>
-		<Selected></Selected>
-		-->
-	</TabIcon>
-	<TabIcon name="RecentApps" unselected="history" selected="history_selected">
-		<!-- <Unselected></Unselected>
-		<Selected></Selected>
-		-->
-	</TabIcon>
-	<TabIcon name="Process" unselected="run" selected="run_selected">
-		<!-- <Unselected></Unselected>
-		<Selected></Selected>
-		-->
-	</TabIcon>
-	<TabTitle unselected="#FFDBDBDB" selected="#FFFFFFFF" gap_v="17" gap_h="40">
-		<!-- <Unselected></Unselected>
+		<CutLine_enabled></CutLine_enabled>
+        -->
+    </Tab>
+
+    <TabIcon
+        name="AllApps"
+        selected="allapp_selected"
+        unselected="allapp" >
+
+        <!--
+        <Unselected></Unselected>
+		<Selected></Selected>
+        -->
+    </TabIcon>
+
+    <TabIcon
+        name="RecentApps"
+        selected="history_selected"
+        unselected="history" >
+
+        <!--
+        <Unselected></Unselected>
+		<Selected></Selected>
+        -->
+    </TabIcon>
+
+    <TabIcon
+        name="Process"
+        selected="run_selected"
+        unselected="run" >
+
+        <!--
+        <Unselected></Unselected>
+		<Selected></Selected>
+        -->
+    </TabIcon>
+
+    <TabTitle
+        gap_h="40"
+        gap_v="17"
+        selected="#FFFFFFFF"
+        unselected="#FFDBDBDB" >
+
+        <!--
+        <Unselected></Unselected>
 		<Selected></Selected>
 		<Gap_v></Gap_v>
-		<Gap_h></Gap_h>
-		-->
-	</TabTitle>
-	<Home unselected="appfunchome" selected="shortcut_light_iconbg" bg_v_image="homebg" bg_h_image="none" bg_way_of_drawing="1" bg_color="#FF00000F"> 
-		<!-- <Unselected></Unselected>
+		<Gap_h></Gap_h>
+        -->
+    </TabTitle>
+
+    <Home
+        bg_color="#FF00000F"
+        bg_h_image="none"
+        bg_v_image="homebg"
+        bg_way_of_drawing="1"
+        selected="shortcut_light_iconbg"
+        unselected="appfunchome" >
+
+        <!--
+        <Unselected></Unselected>
 		<Selected></Selected>
 		<Bg_v way_of_drawing=""></Bg_v>
 		<Bg_h way_of_drawing=""></Bg_h>
-		<Bg_color></Bg_color>
-		-->
-	</Home>
-	<MoveToDesk bg_v_image="appfunc_movetodesk" bg_h_image="none" bg_way_of_drawing="1" bg_color="#FFFFFFFF">
-		<!-- <Bg_v way_of_drawing=""></Bg_v>
+		<Bg_color></Bg_color>
+        -->
+    </Home>
+
+    <MoveToDesk
+        bg_color="#FFFFFFFF"
+        bg_h_image="none"
+        bg_v_image="appfunc_movetodesk"
+        bg_way_of_drawing="1" >
+
+        <!--
+        <Bg_v way_of_drawing=""></Bg_v>
 		<Bg_h way_of_drawing=""></Bg_h>
-		<Bg_color></Bg_color>
-		-->
-	</MoveToDesk>
-	<ClearHistory bg_v_unselected_image="clearhistory" bg_v_selected_image="clearhistory_selected" bg_h_selected_image="button_h2" bg_h_unselected_image="button_h" bg_selected_way_of_drawing="1" bg_unselected_way_of_drawing="1" bg_color="#FFFFFFFF"> 
-    	<!-- <Bg_v way_of_drawing=""></Bg_v>
+		<Bg_color></Bg_color>
+        -->
+    </MoveToDesk>
+
+    <ClearHistory
+        bg_color="#FFFFFFFF"
+        bg_h_selected_image="button_h2"
+        bg_h_unselected_image="button_h"
+        bg_selected_way_of_drawing="1"
+        bg_unselected_way_of_drawing="1"
+        bg_v_selected_image="clearhistory_selected"
+        bg_v_unselected_image="clearhistory" >
+
+        <!--
+        <Bg_v way_of_drawing=""></Bg_v>
     	<Bg_h way_of_drawing=""></Bg_h>
-    	<Bg_color></Bg_color>
-    	-->
+    	<Bg_color></Bg_color>
+        -->
     </ClearHistory>
-    <CloseRunning bg_v_unselected_image="closerunning" bg_v_selected_image="closerunning_selected" bg_h_selected_image="button_h2" bg_h_unselected_image="button_h" bg_selected_way_of_drawing="1" bg_unselected_way_of_drawing="1" bg_color="#FFFFFFFF">
-    	<!-- <Bg_v way_of_drawing=""></Bg_v>
+
+    <CloseRunning
+        bg_color="#FFFFFFFF"
+        bg_h_selected_image="button_h2"
+        bg_h_unselected_image="button_h"
+        bg_selected_way_of_drawing="1"
+        bg_unselected_way_of_drawing="1"
+        bg_v_selected_image="closerunning_selected"
+        bg_v_unselected_image="closerunning" >
+
+        <!--
+        <Bg_v way_of_drawing=""></Bg_v>
     	<Bg_h way_of_drawing=""></Bg_h>
-    	<Bg_color></Bg_color>
-    	-->
+    	<Bg_color></Bg_color>
+        -->
     </CloseRunning>
-    <Indicator indicator_h_current="appfunc_screennow" indicator_h="appfunc_screenother"/>
-    <AppIcon text_color="#ffffffff" text_bg_color="#FF007FEB"/>
-    <AppSetting grid_format="1"/> 
+
+    <Indicator
+        indicator_h="appfunc_screenother"
+        indicator_h_current="appfunc_screennow" />
+
+    <AppIcon
+        text_bg_color="#FF007FEB"
+        text_color="#ffffffff" />
+
+    <AppSetting grid_format="1" />
+
 </Theme>
