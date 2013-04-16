@@ -3,6 +3,8 @@
 
     <version>1</version>
 
+    <!-- Example of iconback (multiple random picked images), iconmask and iconupon --> 
+    <!-- 
     <iconback
         img1="iconback"
         img2="iconback2"
@@ -12,10 +14,11 @@
         img6="iconback6"
         img7="iconback7"
         img8="iconback8" />
-
-    <!-- <iconmask img1="iconmask" /> -->
-    <!-- <iconupon img1="iconupon" /> -->
-
+    <iconmask img1="iconmask" />
+    <iconupon img1="iconupon" />
+    -->
+	
+	<iconback img1="iconback" />
     <scale factor="0.75" />
 
     <!-- Market -->
@@ -26,33 +29,33 @@
     <!-- SMS -->
     <item
         component="ComponentInfo{com.android.mms/com.android.mms.ui.ConversationList}"
-        drawable="sms2_violett"/>
+        drawable="sms2_violet"/>
     <item
         component="ComponentInfo{com.sonyericsson.conversations/com.sonyericsson.conversations.ui.ConversationListActivity}"
-        drawable="sms2_violett"/>
+        drawable="sms2_violet"/>
 
     <!-- Dial -->
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activites.DialtactsActivity}"
-        drawable="phone_violett"/>
+        drawable="phone_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}"
-        drawable="phone_violett"/>
+        drawable="phone_violet"/>
     <item
         component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}"
-        drawable="phone_violett"/>
+        drawable="phone_violet"/>
     <item
         component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}"
-        drawable="phone_violett"/>
+        drawable="phone_violet"/>
     <item
         component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}"
-        drawable="phone_violett"/>
+        drawable="phone_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.RecentCallsListActivity}"
-        drawable="phone_violett"/>
+        drawable="phone_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}"
-        drawable="phone_violett"/>
+        drawable="phone_violet"/>
 
     <!-- Clock -->
     <item
@@ -82,10 +85,10 @@
     <!-- Calculator -->
     <item
         component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}"
-        drawable="calculator_violett"/>
+        drawable="calculator_violet"/>
     <item
         component="ComponentInfo{com.sec.android.app.calculator/com.sec.android.app.calculator.Calculator}"
-        drawable="calculator_violett"/>
+        drawable="calculator_violet"/>
 
     <!-- Browser -->
     <item
@@ -219,25 +222,25 @@
     <!-- Camera -->
     <item
         component="ComponentInfo{com.motorola.Camera/com.motorola.Camera.Camera}"
-        drawable="camera_violett"/>
+        drawable="camera_violet"/>
     <item
         component="ComponentInfo{com.android.camera/com.android.camera.CameraEntry}"
-        drawable="camera_violett"/>
+        drawable="camera_violet"/>
     <item
         component="ComponentInfo{com.sec.android.app.camera/com.sec.android.app.camera.Camera}"
-        drawable="camera_violett"/>
+        drawable="camera_violet"/>
     <item
         component="ComponentInfo{com.google.android.camera/com.android.camera.Camera}"
-        drawable="camera_violett"/>
+        drawable="camera_violet"/>
     <item
         component="ComponentInfo{com.android.camera/com.android.camera.Camera}"
-        drawable="camera_violett"/>
+        drawable="camera_violet"/>
     <item
         component="ComponentInfo{com.sonyericsson.android.camera/com.sonyericsson.android.camera.CameraActivity}"
-        drawable="camera_violett"/>
+        drawable="camera_violet"/>
     <item
         component="ComponentInfo{com.android.gallery3d/com.android.camera.CameraLauncher}"
-        drawable="camera_violett"/>
+        drawable="camera_violet"/>
 
     <!-- Camera ZOOM fx -->
     <item
@@ -253,91 +256,91 @@
     <!-- Google Kontakte -->
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.htccontacts/com.android.htccontacts.ContactsTabActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.PhoneBookTopMenuActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.SocialPhonebookActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.ContactsEntryActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.Dialer}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.sec.android.app.dialertab/com.sec.android.app.dialertab.DialerTabActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.sonyericsson.android.socialphonebook/com.sonyericsson.android.socialphonebook.DialerEntryActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.sec.android.app.contacts.DialerEntryActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activites.NonPhoneActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activites.PeopleActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activites.ContactSelectionActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activites.ContactFrontDoor}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsContactsEntryActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.DialtactsActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activities.DialtactsActivity}"
-        drawable="contacts_violett"/>
+        drawable="contacts_violet"/>
     <item
         component="ComponentInfo{com.android.contacts/com.android.contacts.activities.PeopleActivity}"
-        drawable="contacts_violett"/> <!-- ENTSCHEIDENDE! -->
+        drawable="contacts_violet"/> <!-- ENTSCHEIDENDE! -->
 
 
     <!-- Google Calendar -->
     <item
         component="ComponentInfo{com.android.calendar/com.android.calendar.LaunchActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.htc.calendar/com.htc.calendar.LaunchActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.android.calendar/com.android.calendar.CalendarTabActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.htc.calendar/com.htc.calendar.CalendarActivityMain}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.lgl.calendar/com.lgl.calendar.activity.TabManagerActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.motorola.calendar/com.motorola.calendar.LaunchActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.sec.android.app.latin.launcher.calendar/com.sec.android.app.latin.launcher.calendar.Launcher}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
     <item
         component="ComponentInfo{com.sonyericsson.calendar/com.sonyericsson.calendar.monthview.MonthViewActivity}"
-        drawable="calendar_violett"/>
+        drawable="calendar_violet"/>
 
     <!-- Gallery -->
     <item
@@ -1937,7 +1940,7 @@
     <!-- htc phone -->
     <item
         component="ComponentInfo{com.android.htcdialer/com.android.htcdialer.DialerActivity}"
-        drawable="phone_violett"/>
+        drawable="phone_violet"/>
 
     <!-- htc Qr Barcode Scanner appinventor -->
     <item
