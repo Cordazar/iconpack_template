@@ -8,5 +8,5 @@ ehthumbs.db
 Thumbs.db
 
 
-MainActivity/bin
-MainActivity/gen
+bin/*
+gen/*
