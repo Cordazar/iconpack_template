@@ -43,7 +43,9 @@ Update the file `res/values/strings.xml`.
 
 ##### Step 4
 Copy your icons to the correct folder in `res` depending on icon size, `drawable-ldpi`,`drawable-mdpi`,`drawable-hdpi`,`drawable-xhdpi`.
-More information regarding icon size and formats can be found further down this document. 
+
+More information regarding [icon size and formats](#icon-information) can be found further down this document. 
+
 Name them according to the icon names in `drawable.xml` and `appfilter.xml` or rename in the xml-files to match your icons.
 
 
